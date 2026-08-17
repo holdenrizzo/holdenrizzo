@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a mini programming language designed for people who want to learn.<br>If you're looking to help, I need some help with the advanced features of C++.<br>I'm used to high-level languages such as Lua or Python.
+I'm a pretty young person that's been looking to get involved with computer science for many years.
 
 
 ## 🌐 Socials:
